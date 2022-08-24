@@ -36,8 +36,8 @@ body {
 .mainGreen {
   background-color: #177a41;
 }
-.mainBlack {
-  background-color: #000000;
+.mainDark {
+  background-color: #132528;
 }
 .mainWhite {
   background-color: #ffffff;
@@ -48,8 +48,8 @@ body {
 .lightGrey {
   background-color: #f4f4f4;
 }
-.darkGrey {
-  background-color: #8b8b8b;
+.darkGreen {
+  background-color: #013f34;
 }
 /* Typography CSS */
 .type_container {
@@ -96,13 +96,14 @@ body {
   font-size: 14px;
   text-align: center;
   color: white;
+  font-weight: 700 !important;
 }
 .hover {
   background-color: #07532b;
   border-radius: 20px;
 }
 .focused {
-  background-color: #177a41;
+  background-color: #132528;
   border-radius: 20px;
 }
 .active {
@@ -115,7 +116,10 @@ body {
   color: #7b7b7b;
   border-radius: 20px;
 }
-
+.pressed {
+  background-color: #177a41;
+  border-radius: 20px;
+}
 .sectionHead {
   border-bottom: 8px solid #dddddd;
 }
