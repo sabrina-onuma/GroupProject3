@@ -1,6 +1,6 @@
-@media only screen and (max-width: 1000px) {
-  .container {
-    display: grid;
+@media screen and (max-width: 1000px) {
+  .cardContainer {
+    display: block;
     grid-template-columns: 1fr;
   }
 }
@@ -51,4 +51,10 @@ section {
 }
 .cardContainer {
   width: 100%;
+}
+.team{
+  padding: 10%;
+}
+footer{
+  padding: 10%;
 }
