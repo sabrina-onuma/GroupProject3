@@ -1,0 +1,44 @@
+.handImage {
+  height: 400px;
+  width: 400px;
+  float: left;
+}
+.storeLogo {
+  width: 300px;
+  text-align: center;
+}
+.mwLogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jumbotron {
+  background-color: #f6edda;
+  height: 470px;
+}
+
+.lead {
+  text-align: center;
+}
+.valueText {
+  text-align: center;
+}
+.imgCenter {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-family: roboto;
+  color: #132528;
+}
+p {
+  font-family: roboto;
+  color: #132528;
+}
+
+section {
+  padding: 10%;
+}
+.footerText {
+  text-align: center;
+}
