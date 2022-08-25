@@ -1,3 +1,10 @@
+@media only screen and (max-width: 1000px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+
 .handImage {
   height: 400px;
   width: 400px;
@@ -41,4 +48,7 @@ section {
 }
 .footerText {
   text-align: center;
+}
+.cardContainer {
+  width: 100%;
 }
