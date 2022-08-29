@@ -18,10 +18,12 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 3%;
+  padding-top: 3%;
 }
 .jumbotron {
   background-color: #f6edda;
-  height: 470px;
+  height: 465px;
 }
 
 .lead {
@@ -37,10 +39,12 @@ h1 {
   text-align: center;
   font-family: roboto;
   color: #132528;
+  padding-bottom: 5%;
 }
 p {
   font-family: roboto;
   color: #132528;
+  padding: 2%;
 }
 
 section {
@@ -53,10 +57,10 @@ section {
   width: 100%;
 }
 .team{
-  padding: 10%;
+  padding: 5%;
 }
 footer{
-  padding: 10%;
+  padding: 5%;
 }
 .card-img-top{
   object-fit: cover;
